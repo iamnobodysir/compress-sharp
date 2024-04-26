@@ -8,7 +8,7 @@ const outputFolder = 'output'; // Replace 'output' with the name of your output 
 
 // Compression options
 const compressionOptions = {
-    quality: 80 // Adjust the quality as needed (0 - 100, default: 80)
+    quality: 50 // Adjust the quality as needed (0 - 100, default: 80)
 };
 
 // Ensure the output folder exists
